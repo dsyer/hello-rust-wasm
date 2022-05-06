@@ -1,0 +1,12 @@
+**/*.rs.bk
+Cargo.lock
+bin/
+pkg/
+target/
+
+### VS Code ###
+.vscode/
+
+.bin/
+*.wat
+*.wasm

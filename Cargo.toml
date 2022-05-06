@@ -1,0 +1,10 @@
+[package]
+name = "hello_rust_wasm"
+version = "0.0.1"
+authors = ["Dave Syer"]
+edition = "2018"
+
+[workspace]
+
+[dependencies]
+wasmtime = "^0.36.0"
